@@ -15,7 +15,6 @@ function App() {
 <video width={'200px'} height={'200px'} autoPlay muted preload>
    <source src="https://firebasestorage.googleapis.com/v0/b/stories-web-7f36c.appspot.com/o/1.mp4?alt=media&token=54f1163b-6187-4c30-a932-01523fd8b03c" />
 </video>
-<iframe width={'100%'} src="https://kelansky.ru"></iframe>
 
     </>
 		// <Stories
